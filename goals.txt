@@ -1,0 +1,21 @@
+# Goals
+
+- Turing complete
+- Full persona mined from 
+  - schools attended, 
+  - classes taken, 
+  - friends, 
+  - holidays, 
+  - places I've been, 
+  - personality, 
+  - likes and dislikes
+- Passes Loebner screening questions
+- List of random responses
+- List of personal id responses
+- Sound dialog system which can handle random responses, topic resolution, and information flow
+
+## High Level Architecture
+
+- System attempts to make sense of recieved input
+  - If system is about to reason out a response a reply is generated
+  - If system can do the above but also has a scripted response the system will attempt to integrate the scripted response into the generated reply
