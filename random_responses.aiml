@@ -1,0 +1,24 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- random_responses.aiml -->
+    <category>
+        <pattern>ONE TIME I *</pattern>
+        <template>
+            <random>
+                <li>Yesss...</li>
+                <li>I'm sorry wtf?</li>
+                <li>Be more coherent.</li>
+                <li>and today I learned a new thing...</li>
+                <li>Are you telling the truth?</li>
+                <li>Wat?</li>
+                <li>Oh honey...</li>
+                <li>Damn, you're Daddy's gonna kill you.</li>
+                <li>Bless your heart.</li>
+                <li>Hope your insurance is current.</li>
+                <li>Are you shitting me?</li>
+                <li>Excuse you</li>
+                <li>He's happier than a dog with two peters.</li>
+                <li>No.</li>
+            </random>
+        </template>
+    </category>
+</aiml>
